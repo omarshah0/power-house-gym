@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<a href="https://omar-power-gym.web.app/" target="_noblank">DEMO</a>
+<a href="https://omar-power-gym.web.app/" target="_noblank"><h1>Demo Here</h1></a>
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
