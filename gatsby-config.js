@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    description: `Welcome to The Power Room. We are a fitness and training center that focuses on pushing you to your absolute limit. Download our complete brochure to get started today!`,
+    author: `@omarfarooqshah`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
